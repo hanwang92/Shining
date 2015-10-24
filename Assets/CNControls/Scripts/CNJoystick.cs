@@ -1,5 +1,9 @@
 ﻿using UnityEngine;
 
+using System;
+using UnityEngine.EventSystems;
+using UnityEngine.UI;
+
 // Common Joystick control
 // There're lots of these, you know
 [ExecuteInEditMode]
@@ -32,6 +36,12 @@ public class CNJoystick : CNAbstractController
     [SerializeField]
     [HideInInspector]
     private bool _isHiddenIfNotTweaking;
+
+	[Tooltip("Image of the base")]
+	public Image Base;
+
+	[Tooltip("Image of the stick")]
+	public Image Stick;
 
     // Runtime used fields
     /// <summary>
