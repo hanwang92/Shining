@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CNControls\Scripts\CNJoystick.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\collide.cs">
     <Files>
-      <File FileName="Assets\CNControls\Scripts\CNJoystick.cs" Line="2" Column="1" />
+      <File FileName="Assets\getsprite.cs" Line="6" Column="28" />
+      <File FileName="Assets\collide.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
