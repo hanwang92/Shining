@@ -9,4 +9,4 @@ To play:
   3) run "Shining" app on your phone
   
 You can also download the whole repo and open in Unity,
-Some in-game footage is also attached in root directory
+A preview video "Shining.wmv" and in-game footage is also attached in root directory
