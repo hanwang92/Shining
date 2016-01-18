@@ -9,4 +9,8 @@ To play:
   3) run "Shining" app on your phone
   
 You can also download the whole repo and open in Unity.
-(A preview video "Shining.wmv" and in-game footage is also attached in root directory)
+(Preview video "Shining.wmv" available)
+
+![Alt text](https://github.com/hanwang92/Shining/blob/master/preview%20(1).png)
+![Alt text](https://github.com/hanwang92/Shining/blob/master/preview%20(2).png)
+![Alt text](https://github.com/hanwang92/Shining/blob/master/preview%20(3).png)
