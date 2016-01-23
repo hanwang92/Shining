@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\collide.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Bedroom\Assets\wooden_horse_rotate.cs">
     <Files>
-      <File FileName="Assets\getsprite.cs" Line="6" Column="28" />
-      <File FileName="Assets\collide.cs" Line="17" Column="1" />
+      <File FileName="..\Bedroom\Assets\wooden_horse_rotate.cs" Line="21" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
